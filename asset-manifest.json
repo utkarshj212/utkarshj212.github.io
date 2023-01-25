@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd4dd82f.css",
+    "main.js": "/static/js/main.a91137df.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/bigbasket.png": "/static/media/bigbasket.f48d0748f3c468da5799.png",
+    "static/media/toggletrack.png": "/static/media/toggletrack.dd82bb83d59c5cae11a0.png",
+    "static/media/relience.png": "/static/media/relience.98027903962f787f0dd6.png",
+    "static/media/resta.png": "/static/media/resta.eae627871f09a6023501.png",
+    "static/media/Utkarsh_Jain_Resume.pdf": "/static/media/Utkarsh_Jain_Resume.af10bf7639b61802abd3.pdf",
+    "static/media/mail.jpg": "/static/media/mail.6a7cd9d34a24e151d730.jpg",
+    "static/media/profile.jpg": "/static/media/profile.3298be42d1273bb2c6b9.jpg",
+    "static/media/sp.png": "/static/media/sp.488e61bb688e5be1c983.png",
+    "static/media/call.jpg": "/static/media/call.d069256e31c2fde327b8.jpg",
+    "static/media/skill-bg.svg": "/static/media/skill-bg.bd25574a16184db5c88d.svg",
+    "static/media/contact-bg.svg": "/static/media/contact-bg.6a30e6b652a50201770d.svg",
+    "static/media/pre.svg": "/static/media/pre.f56756b545ace7c74daf.svg",
+    "static/media/about-bg.svg": "/static/media/about-bg.fc32ab7c501be4f13773.svg",
+    "index.html": "/index.html",
+    "main.dd4dd82f.css.map": "/static/css/main.dd4dd82f.css.map",
+    "main.a91137df.js.map": "/static/js/main.a91137df.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4dd82f.css",
+    "static/js/main.a91137df.js"
+  ]
+}
